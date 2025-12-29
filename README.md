@@ -1,4 +1,4 @@
-This repository provides lerobot-diffusion-policy checkpoints for inference.
+This repository provides lerobot-diffusion-policy checkpoints for inference.(You can refer to the following link for lerobot https://huggingface.co/lerobot)
 
 We use SO-ARM101 to sample 50 episodes with two external cameras from different views.
 
